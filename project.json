@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "40EA4235-6",
+    "build_number": 6,
+    "build_time": 1629536886673
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "在线接双人",
+  "packageName": "auto.xzy.SRQuestion_online",
+  "scripts": {},
+  "versionCode": 2,
+  "versionName": "2.2.1"
+}
